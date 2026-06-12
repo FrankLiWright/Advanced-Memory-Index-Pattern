@@ -1,4 +1,4 @@
-# Advanced Memory Index Pattern for Hermes Agent
+# Advanced Memory Index Pattern for Hermes Agent (AND MORE)
 
 > **A two-layer memory optimization strategy that reduces token consumption by 30-50% while preserving all operational rules.**
 
