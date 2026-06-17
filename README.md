@@ -63,7 +63,7 @@
 
 完整的技术规范、评估框架、决策树、实施指南、Pitfalls 和可复用提示词模板，请参阅：
 
-📄 **[AMIP 技术文档（完整版）](docs/AMIP.20260614.Release.md)**
+📄 **[AMIP 技术文档](https://github.com/FrankLiWright/Advanced-Memory-Index-Pattern/blob/main/AMIP.20260614.Release.md)**
 
 ---
 
